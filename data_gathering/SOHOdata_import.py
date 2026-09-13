@@ -10,10 +10,10 @@ Downloads file by file (not as one big batch) so that:
 - a failed file is retried a few times before being logged and skipped
 
 Requires a JSOC-registered email: http://jsoc.stanford.edu/ajax/register_email.html
-"""
+This code was also highly assisted by Claude AI"""
 
 
-#This code was highly assisted by Claude AI
+
 import os
 import time
 
