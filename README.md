@@ -1,1 +1,1 @@
-Working in progress. To see the development, you can check the code
+Working in progress. The repository is up to date if you wish to check the progress.
