@@ -1,0 +1,7 @@
+model,macro F1,accuracy,within one class (A-F),mean seed F1,std seed F1
+dummy,0.0713,0.3326,0.814,,
+logistic regression,0.7361,0.712,0.9298,,
+tabular,0.7369,0.7279,0.9325,0.7364,0.003
+image,0.4445,0.5037,0.7534,0.4402,0.0208
+hybrid,0.7621,0.7513,0.9449,0.7467,0.0121
+residual,0.74,0.7322,0.9435,0.7442,0.0119
