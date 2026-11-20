@@ -20,7 +20,7 @@ import time
 import drms
 import requests
 
-EMAIL = "andrei2legal@gmail.com"
+EMAIL = "(my_email_was_here)"
 SERIES = "mdi.fd_Ic_interp"
 START = "2002.01.01_TAI"
 END = "2011.12.31_TAI"
